@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <br>
 
-- 🌱 I’m currently studying **with SCRIMBA and Zero to Mastery | Working towards a career as a Frontend Developer**
+- 🌱 I’m currently studying **with SCRIMBA and Zero to Mastery**
 
 - 🔭 I’m currently working on **my portfolio**
 
