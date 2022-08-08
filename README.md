@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 😄 Hobbies **Walking, Running, Travel,Reading.**
+- 😄 Hobbies **Walking, Running, Travel, Reading**
 
 - 💬 Ask me about **anything, I'd be happy to answer ;)**
 
