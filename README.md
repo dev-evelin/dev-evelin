@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Evelin 👋</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 Studying **with SCRIMBA and Zero to Mastery**
+- 💻 Studying **with SCRIMBA and Zero to Mastery**
 
 - 🔭 I’m currently working on **my portfolio**
 
