@@ -1,21 +1,23 @@
-<h1 align="center">Hi, I'm Evelin 👋</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1 align="left">Hi, I'm Evelin 👋</h1>
+<h3 align="left">Frontend Developer  </h3>
+<p></p>
 
-- 💻 Studying **with SCRIMBA and Zero to Mastery**
+- 🌎 I'm based in London, United Kingdom.
 
-- 🔭 I’m currently working on **my portfolio**
+- 💻 I’m currently studying **with SCRIMBA and Zero to Mastery**.
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+- 🔭 I’m working on **my portfolio** on Frontend Mentor challenges and taking the #Javascript30 challenge.
 
-- 😄 Hobbies **Walking, Running, Travel, Reading**
+- 👯 I’m looking to collaborate on **Open Source Project**.
 
-- 💬 Ask me about **anything, I'd be happy to answer ;)**
+- 😄 Hobbies **Walking, Running, Travel, Reading**.
+
+- 💬 Ask me about **anything, I'd be happy to answer ;)**.
 
 - 📫 How to reach me **evegnasci@gmail.com**
 
-- 📄 Know about my experiences on Linkedin [https://www.linkedin.com/in/evelin-n-776602238/](https://www.linkedin.com/in/evelin-n-776602238/)
+- 📄 Know about my experiences on Linkedin [https://www.linkedin.com/in/evelin-n-776602238/](https://www.linkedin.com/in/evelin-n-776602238/).
 
-- ⚡ Fun facts **I love designing and travelling to explore new places.**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
