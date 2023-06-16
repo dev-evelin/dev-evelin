@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **anything, I'd be happy to answer ;)**.
 
-- 📫 How to reach me **evegnasci@gmail.com**
-
 - 📄 Know about my experiences on Linkedin [https://www.linkedin.com/in/evelin-n-776602238/](https://www.linkedin.com/in/evelin-n-776602238/).
 
 <br>
