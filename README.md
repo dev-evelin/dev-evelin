@@ -1,20 +1,19 @@
-<h1 align="left">Hi, I'm Evelin 👋</h1>
-<h3 align="left">Frontend Developer  </h3>
-<p></p>
+<h3 align="left">Hi there 👋</h3>
 
-- 🌎 I'm based in London, United Kingdom.
 
-- 💻 I’m currently studying **with SCRIMBA and Zero to Mastery**.
+👋 I'm a React developer based in London.
 
-- 🔭 I’m working on **my portfolio** on Frontend Mentor challenges and taking the #Javascript30 challenge.
+💭 I decided to switch my career to Frontend Development because I love building, breaking things, and figuring out how to automate tasks. After working as a Graphic Designer, it seemed like the perfect decision.
 
-- 👯 I’m looking to collaborate on **Open Source Project**.
+💻 I'm currently finishing the **Frontend Career Path** on Scrimba and I'm halfway through **The Ultimate React Course** by Jonas Schmedtmann on Udemy. I've also recently started building up my GitHub profile, so hopefully, in the next few months, there will be more to see here.
 
-- 😄 Hobbies **Walking, Running, Travel, Reading**.
+🔴 I grew up in Brazil before moving to London.
 
-- 💬 Ask me about **anything, I'd be happy to answer ;)**.
+😄 I have a lot of hobbies, and my biggest passion is reading, but I also enjoy walking, running, and travelling.
 
-- 📄 Know about my experiences on Linkedin [https://www.linkedin.com/in/evelin-n-776602238/](https://www.linkedin.com/in/evelin-n-776602238/).
+👯 I would love to collaborate on Open Source Projects.
+
+📄 Feel free to check out my professional journey on [LinkedIn](https://www.linkedin.com/in/evelin-n-776602238/), and I'd be delighted to connect with you.
 
 <br>
 <h3 align="left">Connect with me:</h3>
