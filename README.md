@@ -3,7 +3,7 @@
 
 👋 I'm a React developer based in London.
 
-💭 I decided to switch my career to Frontend Development because I love building, breaking things, and figuring out how to automate tasks. After working as a Graphic Designer, it seemed like the perfect decision.
+💭 Driven by a profound passion for technology, innovation, and problem-solving I am transitioning to Frontend Development. After working as a Book Design and Product Manager, it seemed like the perfect decision.
 
 💻 I'm currently finishing the **Frontend Career Path** on Scrimba and I'm halfway through **The Ultimate React Course** by Jonas Schmedtmann on Udemy. I've also recently started building up my GitHub profile, so hopefully, in the next few months, there will be more to see here.
 
