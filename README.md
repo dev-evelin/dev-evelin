@@ -1,35 +1,40 @@
 <h3 align="left">Hi there 👋</h3>
 
+💭 I’m a Data Analyst focused on turning data into clear insights that support better decision-making. I enjoy working with data, building analysis workflows, and finding patterns that tell a story.
 
-👋 I'm a React developer based in London.
+💻 I’m currently strengthening my skills in data analysis, including SQL, Python, and data visualization tools. I’m also building a growing set of GitHub projects that showcase my learning and applied work.
 
-💭 Driven by a profound passion for technology, innovation, and problem-solving I am transitioning to Frontend Development. After working as a Book Design and Product Manager, it seemed like the perfect decision.
+🔄 I’m transitioning from a previous focus in frontend development into data analytics, bringing with me a strong understanding of product thinking and user experience.
 
-💻 I'm currently finishing the **Frontend Career Path** on Scrimba and I'm halfway through **The Ultimate React Course** by Jonas Schmedtmann on Udemy. I've also recently started building up my GitHub profile, so hopefully, in the next few months, there will be more to see here.
+📊 I enjoy working on projects involving data exploration, dashboards, and real-world problem solving.
 
-🔴 I grew up in Brazil before moving to London.
+😄 Outside of tech, I enjoy reading, walking, running, and travelling.
 
-😄 I have a lot of hobbies, and my biggest passion is reading, but I also enjoy walking, running, and travelling.
+👯 I’m open to collaborating on data projects and open-source work.
 
-👯 I would love to collaborate on Open Source Projects.
+📄 You can find more about my experience on [LinkedIn](https://www.linkedin.com/in/dev-evelin/).
 
-📄 Feel free to check out my professional journey on [LinkedIn](https://www.linkedin.com/in/evelin-n-776602238/), and I'd be delighted to connect with you.
-
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/dev-evelin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dev-evelin" height="30" width="40" /></a>
-<a href="https://twitter.com/dev_evelin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_evelin_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/evelin-n-776602238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/evelin-n-776602238/" height="30" width="40" /></a>
-</p>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-<br>
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-evelin&show_icons=true&locale=en&layout=compact" alt="dev-evelin" /></p>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-evelin&show_icons=true&locale=en" alt="dev-evelin" /></p>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-evelin&" alt="dev-evelin" /></p>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+</a>
+
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
+</a>
+</p>
