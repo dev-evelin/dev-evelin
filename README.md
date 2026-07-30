@@ -1,23 +1,18 @@
-<h3 align="left">Hi there 👋</h3>
+## Evelin Nascimento ##
 
-💭 I’m a Data Analyst focused on turning data into clear insights that support better decision-making. I enjoy working with data, building analysis workflows, and finding patterns that tell a story.
+### Data Analyst | Power BI | Business Intelligence ###
 
-💻 I’m currently strengthening my skills in data analysis, including SQL, Python, and data visualization tools. I’m also building a growing set of GitHub projects that showcase my learning and applied work.
 
-🔄 I’m transitioning from a previous focus in frontend development into data analytics, bringing with me a strong understanding of product thinking and user experience.
+💭 I’m a Data Analyst focused on turning data into clear insights that support better decision-making. I enjoy working with data, building analysis workflows, and finding patterns that tell a story. 
 
-📊 I enjoy working on projects involving data exploration, dashboards, and real-world problem solving.
+I'm certified by IBM in <a href="https://coursera.org/share/03ace3216053862840ad8510b2b9b715">Data Analytics</a> and I’m currently strengthening my skills in data analysis, including SQL, Python, and data visualization tools. 
 
-😄 Outside of tech, I enjoy reading, walking, running, and travelling.
-
-👯 I’m open to collaborating on data projects and open-source work.
-
-📄 You can find more about my experience on [LinkedIn](https://www.linkedin.com/in/dev-evelin/).
+📄 You can find more about my experience on [LinkedIn](https://www.linkedin.com/in/dev-evelin/)
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+🛠 Hard Skills
+  
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
@@ -38,3 +33,36 @@
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
 </a>
 </p>
+
+ **Excel & Google Sheets** – Proficient in data cleaning, transformation, and analysis, including the creation of pivot tables, formulas, and interactive data visualizations to support decision-making.
+
+**SQL** – Experienced in writing queries, filtering and manipulating datasets, and extracting meaningful insights from structured data.
+
+**Python** – Skilled in data cleaning, exploratory data analysis, and visualization using libraries such as NumPy, Pandas, and Matplotlib to identify trends and patterns.
+
+**Power BI** – Experienced in creating interactive dashboards, developing data models, and building visual reports to communicate insights and support data-driven decisions.
+
+## 🗣 Soft Skills
+
+🗣 Business Communication – Translating data insights into clear business recommendations.
+
+📊 **Strategic Thinking** – Connecting data analysis with business goals and decisions.
+
+🔍 **Problem-Solving** – Identifying challenges and developing data-driven solutions.
+
+🤝 **Collaboration** – Working effectively across teams to achieve shared objectives.
+
+⚙️ **Process Improvement** – Optimizing workflows through analysis and continuous improvement.
+
+📈 **Data-Driven Decision Making** – Using metrics to improve performance and outcomes.
+
+⏱ **Project Management** – Managing priorities, timelines, and deliverables effectively.
+
+🎯 **Attention to Detail** – Ensuring accuracy and quality in data analysis and reporting.
+⚙️ Process Improvement Mindset – Strong ability to evaluate workflows, identify inefficiencies, and implement data-driven improvements.
+
+📈 Data-Driven Decision Making – Comfortable using metrics and insights to measure performance, optimize processes, and support strategic initiatives.
+
+⏱ Project & Time Management – Experienced in managing priorities, timelines, and resources while delivering results in dynamic environments.
+
+🎯 Attention to Detail – Ensures accuracy and consistency when analyzing information, monitoring performance indicators, and creating reports.
