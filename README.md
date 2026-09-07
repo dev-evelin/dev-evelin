@@ -1,18 +1,17 @@
-## Evelin Nascimento ##
+## Evelin Nascimento
 
-### Data Analyst | Power BI | Business Intelligence ###
+### Data Analyst | Power BI | Business Intelligence
 
+💭 I’m a Data Analyst focused on turning data into clear insights that support better decision-making. I enjoy working with data, building analysis workflows, and finding patterns that tell a story.
 
-💭 I’m a Data Analyst focused on turning data into clear insights that support better decision-making. I enjoy working with data, building analysis workflows, and finding patterns that tell a story. 
-
-I'm certified by IBM in <a href="https://coursera.org/share/03ace3216053862840ad8510b2b9b715">Data Analytics</a> and I’m currently strengthening my skills in data analysis, including SQL, Python, and data visualization tools. 
+I'm certified by IBM in <a href="https://coursera.org/share/03ace3216053862840ad8510b2b9b715">Data Analytics</a> and I’m currently strengthening my skills in data analysis, including SQL, Python, and data visualization tools.
 
 📄 You can find more about my experience on [LinkedIn](https://www.linkedin.com/in/dev-evelin/)
 
 <br>
 
 🛠 Hard Skills
-  
+
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
@@ -34,7 +33,7 @@ I'm certified by IBM in <a href="https://coursera.org/share/03ace3216053862840ad
 </a>
 </p>
 
- **Excel & Google Sheets** – Proficient in data cleaning, transformation, and analysis, including the creation of pivot tables, formulas, and interactive data visualizations to support decision-making.
+**Excel & Google Sheets** – Proficient in data cleaning, transformation, and analysis, including the creation of pivot tables, formulas, and interactive data visualizations to support decision-making.
 
 **SQL** – Experienced in writing queries, filtering and manipulating datasets, and extracting meaningful insights from structured data.
 
@@ -44,25 +43,24 @@ I'm certified by IBM in <a href="https://coursera.org/share/03ace3216053862840ad
 
 ## 🗣 Soft Skills
 
-🗣 Business Communication – Translating data insights into clear business recommendations.
+🗣 **Business Communication**
 
-📊 **Strategic Thinking** – Connecting data analysis with business goals and decisions.
+📊 **Strategic Thinking**
 
-🔍 **Problem-Solving** – Identifying challenges and developing data-driven solutions.
+🔍 **Problem-Solving**
 
-🤝 **Collaboration** – Working effectively across teams to achieve shared objectives.
+🤝 **Collaboration**
 
-⚙️ **Process Improvement** – Optimizing workflows through analysis and continuous improvement.
+⚙️ **Process Improvement**
 
-📈 **Data-Driven Decision Making** – Using metrics to improve performance and outcomes.
+📈 **Data-Driven Decision Making**
 
-⏱ **Project Management** – Managing priorities, timelines, and deliverables effectively.
+⏱ **Project Management** .
 
-🎯 **Attention to Detail** – Ensuring accuracy and quality in data analysis and reporting.
-⚙️ Process Improvement Mindset – Strong ability to evaluate workflows, identify inefficiencies, and implement data-driven improvements.
+🎯 **Attention to Detail**
 
-📈 Data-Driven Decision Making – Comfortable using metrics and insights to measure performance, optimize processes, and support strategic initiatives.
+📈 **Data-Driven Decision Making**
 
-⏱ Project & Time Management – Experienced in managing priorities, timelines, and resources while delivering results in dynamic environments.
+⏱ **Project & Time Management**
 
-🎯 Attention to Detail – Ensures accuracy and consistency when analyzing information, monitoring performance indicators, and creating reports.
+🎯 **Attention to Detail**
